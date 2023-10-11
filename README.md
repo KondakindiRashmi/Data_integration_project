@@ -1,1 +1,7 @@
-"# Data_integration_project" 
+Aimed to enhance the management of patient records and medical coding processes within a healthcare system. The project was organized into three phases, each contributing to the overarching goal of creating a unified patient identity and improving the coding system.
+
+The first phase focused on integrating source files, which included diverse patient records and medical data. Central to this phase was the integration of the Master Patient Index (MPI), a critical component that establishes a unified patient identity. By matching and linking patient records to the MPI. This phase set the foundation for the subsequent phases by creating a unified view of patient data.
+
+The second phase of the project was dedicated to the coding aspect of healthcare records. Using SQL, the team worked on mapping ICD-9-CM (Clinical Modification) codes to ICD-10-CM codes. This phase involved developing algorithms to automate the mapping process and generate specific patient IDs with updated codes.
+
+The final phase of the project revolved around patient matching. It ensured that patients' records and information were accurately matched and linked, considering both demographic and clinical information. This involved the development and implementation of patient-matching algorithms to identify and associate patients with their relevant records. The goal was to create a single, unified view of each patient's medical history and information.
